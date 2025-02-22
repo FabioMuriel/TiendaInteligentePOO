@@ -1,0 +1,6 @@
+@TiendaInteligenteBackend_HostAddress = http://localhost:5034
+
+GET {{TiendaInteligenteBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
